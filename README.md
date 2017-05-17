@@ -15,4 +15,4 @@ This review is also available in [`review-v1.md`](review-v1.md) and [on Publons]
 
 ## Review of Version 2
 
-This review is also available in [`review-v2.md`](review-v2.md).
+This review is available in [`review-v2.md`](review-v2.md).
