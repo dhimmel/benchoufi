@@ -21,3 +21,7 @@ Cite my review report for version 2 of the study as:
 DOI: [`10.5256/f1000research.12384.r22303`](https:doi.org/10.5256/f1000research.12384.r22303)
 
 This review is also available in [`review-v2.md`](review-v2.md) and [on Publons](https://publons.com/publon/920668/).
+
+## License
+
+All original content is released under a [CC BY 4.0 License](LICENSE.md). The `reference` directory contains external resources that are not covered by this license.
